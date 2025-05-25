@@ -1,5 +1,5 @@
 import React from 'react';
-import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined'; // Import InfoOutlinedIcon
+// import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined'; // Import InfoOutlinedIcon
 
 const Tooltip = ({ children, text }) => {
   return (
