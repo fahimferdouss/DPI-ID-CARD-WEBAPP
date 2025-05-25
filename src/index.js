@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './index.css'; // Import your Tailwind CSS
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './reportWebVitals'; // Keep if you want web vitals reporting
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
