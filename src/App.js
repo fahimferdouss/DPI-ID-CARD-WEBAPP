@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import Notification from './components/Notification'; // Assuming moved to components
 import Header from './components/Header'; // Assuming moved to components
 import Footer from './components/Footer'; // Assuming moved to components
